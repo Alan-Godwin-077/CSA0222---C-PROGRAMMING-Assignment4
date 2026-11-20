@@ -1,7 +1,7 @@
 # Assignment 4 – Modelling Real-World Data with Structures and Unions
 
-**Student:** Kabilan P  
-**Register Number:** 1911260250  
+**Student:** Alan Godwin J  
+**Register Number:** 1921260244  
 **Repository:** `CSA02-1911260250-Assignment4`  
 **GitHub link:** [ADD AFTER CREATING THE REPOSITORY]
 
