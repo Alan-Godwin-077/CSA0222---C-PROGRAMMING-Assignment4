@@ -1,7 +1,7 @@
 # Assignment 4 – Modelling Real-World Data with Structures and Unions
 
-**Student:** Kabilan P  
-**Register Number:** 1911260250  
+**Student:** Alan Godwin J   
+**Register Number:** 1921260244  
 **Course:** CSA02 – C Programming  
 **Compiler:** GCC (use `gcc --version` to record the installed version)  
 **Compile command:** `gcc -std=c11 -Wall -Wextra -O0 main.c -o program`
